@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="alc_welcome">Welcome to ALC 4.0</string>
+    <string name="alc_about">About ALC</string>
+    <string name="alc_profile">My profile</string>
+    <string name="track">Track:     Android</string>
+    <string name="country">Country:     Tunisia</string>
+    <string name="email">Email:     aoun.marwen@hotmail.com</string>
+    <string name="phone_number">Phone number:     0021650403374</string>
+    <string name="slack_username">Slack Username:     @marwenaoun</string>
+    <string name="name">Marwen Aoun</string>
+</resources>
